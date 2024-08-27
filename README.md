@@ -74,14 +74,24 @@ Personal-Portfolio/
 ```
 
 ## 📸 Screenshots
+
 ### Home Page
-![Home Page](./Linkedin-profile-picture-safeimagekit.jpg)
+<img src="Home Page.png">
 
 ### About Me
-![About Me Section](./Linkedin-profile-picture-safeimagekit.jpg)
+<img src="About Page.png">
 
-### Skills
-![Skills Section](./Linkedin-profile-picture-safeimagekit.jpg)
+### My Journey
+<img src="My Journey.png">
+
+### My Learning
+<img src="Learning Page.png">
+
+### My Skill
+<img src="My Skill Page.png">
+
+### My Contact
+<img src="Contact page.png">
 
 ## 🛤️ Roadmap
 Future enhancements and features to be added:
@@ -110,4 +120,4 @@ Feel free to reach out if you have any questions or want to collaborate!
 
 ---
 
-This expanded README covers more aspects of your project, such as the technologies used, project structure, and a roadmap for future improvements. It also includes a section for acknowledgements and a detailed contact section.
+
