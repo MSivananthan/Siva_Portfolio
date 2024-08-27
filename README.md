@@ -4,7 +4,12 @@ Certainly! Here’s a more detailed version of your README file with additional 
 
 # 🌟 Personal Portfolio Website
 
-                                                           ![Portfolio Logo](./logo_1-removebg-preview%201%20-%20Copy.png)
+<div id="header" align="center">
+  <img src=" ![Portfolio Logo](./logo_1-removebg-preview%201%20-%20Copy.png)
+" width="100"/>
+</div>
+
+                                                          
 
 Welcome to my personal portfolio website! This project represents my journey as a software developer, showcasing my skills, experience, and projects. The website is built using HTML, CSS, and JavaScript, and is designed to be fully responsive and visually appealing across all devices.
 
