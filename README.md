@@ -5,7 +5,7 @@ Certainly! Here’s a more detailed version of your README file with additional 
 # 🌟 Personal Portfolio Website
 
 <div id="header" align="center">
-  <img src=" ![Portfolio Logo](./logo_1-removebg-preview%201%20-%20Copy.png)
+  <img src="logo_1-removebg-preview%201%20-%20Copy.png
 " width="100"/>
 </div>
 
