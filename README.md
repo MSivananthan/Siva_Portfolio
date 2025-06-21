@@ -1,8 +1,6 @@
-Certainly! Here’s a more detailed version of your README file with additional sections and content:
 
----
 
-# 🌟 Personal Portfolio Website
+#  Personal Portfolio Website
 
 <div id="header" align="center">
   <img src="https://github.com/MSivananthan/Siva_Portfolio/blob/main/logo_1-removebg-preview%201%20-%20Copy.png
